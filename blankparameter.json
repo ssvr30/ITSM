@@ -9,10 +9,10 @@
             "value": "arm-vpc"
         },
         "resourceGroup": {
-            "value": "arm"
+            "value": "armfile"
         },        
         "NSG_Oneoff_name": {          
-            "value": "oneOff"
+            "value": "Muruga"
         }
     }    
 }
